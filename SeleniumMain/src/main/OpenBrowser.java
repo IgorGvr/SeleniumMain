@@ -2,7 +2,7 @@ package main;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-//Created by IgorG 12/27/18
+
 public class OpenBrowser {
 	public static void main(String[] args) throws InterruptedException {
 		
